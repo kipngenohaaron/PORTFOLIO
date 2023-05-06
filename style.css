@@ -14,8 +14,11 @@
 li {
     display: inline;
     padding: 50px;
-    background-color: aqua;
+   
+    margin-bottom: 5px;
+    
 }
 .welcome{
         background-image: url(images/DSC\ 0051.JPG);
+        margin: 10px;
 }
