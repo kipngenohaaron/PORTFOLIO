@@ -14,7 +14,8 @@
 li {
     display: inline;
     padding: 50px;
+    background-color: aqua;
 }
 .welcome{
-    background-color: aqua;
+        background-image: url(images/DSC\ 0051.JPG);
 }
