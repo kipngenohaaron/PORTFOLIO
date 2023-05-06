@@ -14,25 +14,33 @@
 li {
     display: inline;
     padding: 50px;
-   
+
     margin-bottom: 5px;
-    
+
 }
-.welcome{
-        background-image: url(images/DSC\ 0051.JPG);
-        margin: 10px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        text-align: center;
-        border-radius: 50px;
-        position: relative;
-        height: 600px;
-        text-emphasis: none;
-        
+
+.welcome {
+    background-image: url(images/DSC\ 0051.JPG);
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    height: 600px;
+    text-emphasis: none;
+
 }
-.header{
+
+.header {
     top: 10%;
     position: absolute;
     left: 400px;
     color: black;
+}
+
+.list {
+    display: grid;
+    margin-top: -50px;
+    
 }
