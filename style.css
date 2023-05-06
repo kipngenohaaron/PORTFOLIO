@@ -40,7 +40,9 @@ li {
 }
 
 .list {
-    display: grid;
-    margin-top: -50px;
+margin-top: -50px;
+padding-top: 10px;
+margin-bottom: -50px;
+
     
 }
