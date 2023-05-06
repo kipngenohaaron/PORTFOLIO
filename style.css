@@ -9,3 +9,7 @@
     background-size: cover;
     width: max-content;
 }
+li{
+    display: inline;
+    padding: 20px;
+}
