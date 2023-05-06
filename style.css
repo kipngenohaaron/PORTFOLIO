@@ -4,12 +4,14 @@
 
 
 }
-.imag{
+
+.imag {
     height: 400px;
     background-size: cover;
     width: max-content;
 }
-li{
+
+li {
     display: inline;
-    padding: 40px;
+    padding: 50px;
 }
