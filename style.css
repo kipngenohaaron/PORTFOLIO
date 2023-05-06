@@ -21,4 +21,8 @@ li {
 .welcome{
         background-image: url(images/DSC\ 0051.JPG);
         margin: 10px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+
 }
