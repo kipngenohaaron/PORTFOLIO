@@ -22,7 +22,7 @@
 2. CSS
 3. Vscode
 
-## Skecth
+## Sketch
 
 ![IMG_20230507_174954](https://user-images.githubusercontent.com/132748186/236684964-08c72919-c96f-43f9-adf0-47e94548d9af.jpg)
 
