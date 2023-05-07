@@ -10,22 +10,36 @@
 </head>
 
 <body>
+    <div class="nav-bar">
     <ul>
         <li><a href="index.html">HOME</a></li>
         <li><a href="About.html">ABOUT</a></li>
         <li><a href="contact.html">CONTACT</a></li>
     </ul>
+</div>
+    <div class="tech">
     <h1>Here is the Address:</h1>
     <P> KIPNGENOH TECHNOLOGIES </P>
     <p>P.O BOX 30100 <br>NAIROBI <br>+254724279400<br>0101121100</p>
-    <h1> Feed Back Form </h1>
-    <form method=”POST” action=””>
-        <p> <label> Name: <input type=”text” name=”name” size=”25” /> </label> </p>
-        <p> <label> Comments :<br />
-                <textarea name=”comments” rows=”4” cols=”36”> </textarea>
-            </label> </p>
-        <p> <label> E-mail Address: <input type=”password” name=”email” size=”25” /> </label> </p>
-        <input type="submit" value="submit">
+    </div>
+   
+    <div class="form">
+        <h1> Feed Back Form </h1>
+        <form>
+            <label for="firstname">firstname</label>
+            <input type="text" placeholder="firstname">
+            <label for="lastname">lastname</label>
+            <input type="text" placeholder="lastname">
+            <label for="email">email</label>
+            <input type="text" placeholder="email">
+            <label for="comment">comment</label>
+            <input type="text" placeholder="comment">
+
+
+        </form>
+    </div>
+    
+       
 </body>
 
 </html>

@@ -1,21 +1,26 @@
 .column {
     float: left;
-    width: 50%;
+    width: 60%;
+    text-align: center; 
 
 
+}
+.column3{
+    float: right;
+    width: 40%;
 }
 
 .imag {
     height: 400px;
     background-size: cover;
-    width: max-content;
+    width: 100%;
 }
 
 li {
     display: inline;
     padding: 50px;
-
-    margin-bottom: 5px;
+    font-size: 30px;
+    margin-left: 100px;
 
 }
 
@@ -27,7 +32,7 @@ li {
     text-align: center;
     border-radius: 50px;
     position: relative;
-    height: 600px;
+    height: 450px;
     text-emphasis: none;
 
 }
@@ -45,4 +50,52 @@ padding-top: 10px;
 margin-bottom: -50px;
 
     
+}
+.column1{
+    float: left;
+    width: 50%;
+    margin-top: 100px;
+
+  
+}
+.column2{
+    float: right;
+    width: 50%;
+
+}
+.row2{
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.tech{
+    float: left;
+    margin-left: 470px;
+}
+.form{
+    float: right;
+    margin-top: 10px;
+    margin-right: 150px;
+    text-align: center;
+
+
+}
+label{
+    padding: 10px;
+    padding-top: 15px;
+
+}
+input{
+    margin-top: 10px;
+    width: 100%;
+    resize: vertical;
+    border-radius: 8px;
+
+}
+.nav-bar{
+    background-color: rgb(45, 163, 21);
+
+}
+body{
+    background-color: aquamarine;
 }
