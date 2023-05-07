@@ -1,6 +1,6 @@
 # Portfolio
 
-## Author - Kipngenoh Aaron
+## Author - Kipngenoh Aaron Rotich
 
 ## Project Description
 
