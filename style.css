@@ -99,3 +99,10 @@ input{
 body{
     background-color: aquamarine;
 }
+button{
+    width: 15%;
+    margin-top: 10px;
+    color: white;
+    background-color: blue;
+
+}
